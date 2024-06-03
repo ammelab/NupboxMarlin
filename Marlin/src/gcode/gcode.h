@@ -1254,6 +1254,8 @@ private:
     static void M710_report(const bool forReplay=true);
   #endif
 
+  static void M10000();
+
   static void T(const int8_t tool_index);
 
 };
